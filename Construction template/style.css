@@ -1,0 +1,40 @@
+
+body{
+    background-color: #2687d6;
+    margin: 0;
+    overflow: hidden;
+
+}
+#papi{
+    height: 100vh;
+    width: 100vh;
+}
+
+#kas{
+    padding: 2vh;
+}
+
+#imangi{
+    height: 70vh;
+    width: 70vh;
+    display:block;
+    margin:auto;
+    border-radius: 50%;
+    border: 3px solid;
+    border-color: black;
+    background-color: white;
+}
+
+p{
+    font-family: 'Noto Sans JP', sans-serif;
+    color: white;
+
+}
+
+#foor{
+    margin-top: 1vh;
+    color: white;
+}
+#pap{
+    margin-top: 1vh;
+}
